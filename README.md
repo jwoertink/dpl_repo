@@ -2,6 +2,7 @@
 
 ```ruby
 puts "hello"
+[].sum
 ```
 
 
